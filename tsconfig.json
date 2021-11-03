@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+      "module": "commonjs",
+      "strict": true,
+      "target": "es2019",
+      "lib": ["ES2019.Object", "ES2019", "ESNext", "dom"],
+      "esModuleInterop": true
+  },
+  "include": ["src/**/*"]
+}
